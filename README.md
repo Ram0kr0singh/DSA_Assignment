@@ -1,9 +1,9 @@
 # DSA Assignment Sem - 1
 
-###Name:- Ram Kumar Singh
+Name:- Ram Kumar Singh
 
-###Rollno:- 2501940002
+Rollno:- 2501940002
 
-###School:- SOET
+School:- SOET
 
-###Course:- MCA (AI / ML)
+Course:- MCA (AI / ML)
